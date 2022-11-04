@@ -2,7 +2,7 @@
 
 Grub is an app template in Java/Kotlin for Android, iOS, Desktop & Web. It helps to build an elaborate cross-platform food delivery app such as UberEats, Foodpanda, GrubHub etc using the new CodeRad tools.
 
-<img src="https://senior-dev-1019.github.io/uber-eats-clone-banner.jpg" width="600"></img>
+![image](https://user-images.githubusercontent.com/87219198/199913878-07792eee-d6c4-4b93-ba02-e8e65cce2f8c.png)
 
 This app was designed as a proof of concept for the CodeRAD library, which facilitates the development of rich, reusable UI components for Codename One.  It contains everything you should need to build a rich and reusable app with the Rapid application development principles.
 
