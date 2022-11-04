@@ -52,7 +52,7 @@ Apache 2.0
 
 ## Demo
 
-* Download [Android demo app](https://github.com/senior-dev-1019/UberApp/releases/download/v1.0/Grub.apk).
+* Download [Android demo app](https://github.com/senior-dev-1019/UberApp/releases/download/v1.0.0.1/Grub.apk).
 
 <br>
 
